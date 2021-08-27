@@ -1,0 +1,3 @@
+1;Peinado;550
+2;Banio;300
+3;corte de pelos higienicos;200
